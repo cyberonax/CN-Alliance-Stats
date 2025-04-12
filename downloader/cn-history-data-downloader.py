@@ -7,7 +7,7 @@ from pathlib import Path
 # CONFIGURATION
 # -----------------------
 BASE_URL = "https://www.cybernations.net/assets/CyberNations_SE_Alliance_Stats_"
-ZIP_IDS = ["525001", "525002"]
+ZIP_IDS = ["515001", "515002"]
 
 # Directory that is tracked by your repository (e.g., "downloaded_zips" inside your repo)
 LOCAL_DIR = Path("./downloaded_zips")
